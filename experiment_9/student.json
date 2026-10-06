@@ -1,0 +1,26 @@
+[
+    {
+        "RollNo": "1",
+        "Name": "Rugved",
+        "Age": "18",
+        "Course": "Computer Engineering"
+    },
+    {
+        "RollNo": "2",
+        "Name": "Ekta",
+        "Age": "19",
+        "Course": "Computer Engineering"
+    },
+    {
+        "RollNo": "3",
+        "Name": "Om",
+        "Age": "18",
+        "Course": "Information Technology"
+    },
+    {
+        "RollNo": "4",
+        "Name": "Rishii",
+        "Age": "19",
+        "Course": "Computer Engineering"
+    }
+]
