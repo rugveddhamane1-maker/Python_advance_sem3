@@ -1,0 +1,12 @@
+2026-11-25 11:06:53 - DEBUG - This is a debug message
+2026-11-25 11:06:53 - INFO - Program execution started
+2026-11-25 11:06:53 - WARNING - This is a warning message
+2026-11-25 11:06:53 - ERROR - This is an error message
+2026-11-25 11:06:53 - CRITICAL - This is a critical message
+2026-11-25 11:06:53 - ERROR - Exception occurred during division
+Traceback (most recent call last):
+  File "/Users/rohandhamane/Documents/GitHub/Python_advance_sem3/experiment14.py", line 25, in <module>
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-11-25 11:06:53 - INFO - Program execution completed
